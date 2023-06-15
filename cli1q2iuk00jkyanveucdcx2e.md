@@ -33,6 +33,8 @@ So, if something is not simple to understand when I heard from someone. I just u
 
 And they have become my go-to tools every day.
 
+For example, If you do not know how to debug the code on some editor, you can learn with just one click away.
+
 Fun fact: I used to ask for a customized poem or song for my friend's birthdays and make use of other AI tools which would sing it out. That was fun.
 
 ## But!
